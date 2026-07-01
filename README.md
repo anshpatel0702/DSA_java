@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshpatel0702/DSA_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/anshpatel0702/DSA_java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anshpatel0702/DSA_java/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/anshpatel0702/DSA_java/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshpatel0702/DSA_java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@
 | [0073-set-matrix-zeroes](https://github.com/anshpatel0702/DSA_java/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/anshpatel0702/DSA_java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anshpatel0702/DSA_java/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/anshpatel0702/DSA_java/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anshpatel0702/DSA_java/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/anshpatel0702/DSA_java/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
