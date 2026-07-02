@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anshpatel0702/DSA_java/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/anshpatel0702/DSA_java/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anshpatel0702/DSA_java/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/anshpatel0702/DSA_java/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/anshpatel0702/DSA_java/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/anshpatel0702/DSA_java/tree/master/0073-set-matrix-zeroes) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anshpatel0702/DSA_java/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anshpatel0702/DSA_java/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/anshpatel0702/DSA_java/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anshpatel0702/DSA_java/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshpatel0702/DSA_java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anshpatel0702/DSA_java/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/anshpatel0702/DSA_java/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/anshpatel0702/DSA_java/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anshpatel0702/DSA_java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0229-majority-element-ii) |
