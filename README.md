@@ -73,4 +73,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/anshpatel0702/DSA_java/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/anshpatel0702/DSA_java/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
