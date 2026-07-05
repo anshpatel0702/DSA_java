@@ -17,6 +17,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/anshpatel0702/DSA_java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anshpatel0702/DSA_java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/anshpatel0702/DSA_java/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/anshpatel0702/DSA_java/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshpatel0702/DSA_java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -52,6 +53,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/anshpatel0702/DSA_java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anshpatel0702/DSA_java/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/anshpatel0702/DSA_java/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -82,4 +84,24 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anshpatel0702/DSA_java/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anshpatel0702/DSA_java/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anshpatel0702/DSA_java/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anshpatel0702/DSA_java/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anshpatel0702/DSA_java/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/anshpatel0702/DSA_java/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
