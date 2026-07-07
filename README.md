@@ -15,6 +15,7 @@
 | [0056-merge-intervals](https://github.com/anshpatel0702/DSA_java/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/anshpatel0702/DSA_java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anshpatel0702/DSA_java/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anshpatel0702/DSA_java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshpatel0702/DSA_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/anshpatel0702/DSA_java/tree/master/0128-longest-consecutive-sequence) |
@@ -95,6 +96,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/anshpatel0702/DSA_java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anshpatel0702/DSA_java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshpatel0702/DSA_java/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/anshpatel0702/DSA_java/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
