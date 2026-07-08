@@ -27,6 +27,7 @@
 | [0493-reverse-pairs](https://github.com/anshpatel0702/DSA_java/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshpatel0702/DSA_java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anshpatel0702/DSA_java/tree/master/0560-subarray-sum-equals-k) |
+| [0875-koko-eating-bananas](https://github.com/anshpatel0702/DSA_java/tree/master/0875-koko-eating-bananas) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshpatel0702/DSA_java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -104,6 +105,7 @@
 | [0162-find-peak-element](https://github.com/anshpatel0702/DSA_java/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/anshpatel0702/DSA_java/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshpatel0702/DSA_java/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/anshpatel0702/DSA_java/tree/master/0875-koko-eating-bananas) |
 ## Binary Indexed Tree
 |  |
 | ------- |
