@@ -83,6 +83,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshpatel0702/DSA_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/anshpatel0702/DSA_java/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/anshpatel0702/DSA_java/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/anshpatel0702/DSA_java/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/anshpatel0702/DSA_java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anshpatel0702/DSA_java/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/anshpatel0702/DSA_java/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,4 +148,12 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/anshpatel0702/DSA_java/tree/master/0410-split-array-largest-sum) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anshpatel0702/DSA_java/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anshpatel0702/DSA_java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
