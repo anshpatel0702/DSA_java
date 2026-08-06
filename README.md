@@ -113,6 +113,7 @@
 | [0007-reverse-integer](https://github.com/anshpatel0702/DSA_java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anshpatel0702/DSA_java/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/anshpatel0702/DSA_java/tree/master/0509-fibonacci-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anshpatel0702/DSA_java/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,4 +162,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/anshpatel0702/DSA_java/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anshpatel0702/DSA_java/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
