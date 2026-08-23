@@ -166,4 +166,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshpatel0702/DSA_java/tree/master/3345-smallest-divisible-digit-product-i) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/anshpatel0702/DSA_java/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
