@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/anshpatel0702/DSA_java/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/anshpatel0702/DSA_java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/anshpatel0702/DSA_java/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/anshpatel0702/DSA_java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anshpatel0702/DSA_java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anshpatel0702/DSA_java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -129,6 +130,7 @@
 | [0002-add-two-numbers](https://github.com/anshpatel0702/DSA_java/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/anshpatel0702/DSA_java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anshpatel0702/DSA_java/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/anshpatel0702/DSA_java/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/anshpatel0702/DSA_java/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshpatel0702/DSA_java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/anshpatel0702/DSA_java/tree/master/3870-count-commas-in-range) |
