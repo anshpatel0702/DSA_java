@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anshpatel0702/DSA_java/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshpatel0702/DSA_java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/anshpatel0702/DSA_java/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/anshpatel0702/DSA_java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anshpatel0702/DSA_java/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/anshpatel0702/DSA_java/tree/master/0027-remove-element) |
@@ -224,10 +225,15 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anshpatel0702/DSA_java/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/anshpatel0702/DSA_java/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anshpatel0702/DSA_java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
