@@ -8,7 +8,7 @@ class Solution {
             int l2=expand(s,i,i+1);
             int l=Math.max(l1,l2);
              
-            if(l> (end-start)){
+            if(l> (end-start+1)){
                 start=i-(l-1)/2;
                 end=i+l/2;
             } 
