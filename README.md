@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshpatel0702/DSA_java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/anshpatel0702/DSA_java/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -251,6 +252,7 @@
 | [0796-rotate-string](https://github.com/anshpatel0702/DSA_java/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3498-reverse-degree-of-a-string](https://github.com/anshpatel0702/DSA_java/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
