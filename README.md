@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshpatel0702/DSA_java/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/anshpatel0702/DSA_java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshpatel0702/DSA_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/anshpatel0702/DSA_java/tree/master/0152-maximum-product-subarray) |
@@ -257,6 +258,7 @@
 | [0013-roman-to-integer](https://github.com/anshpatel0702/DSA_java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anshpatel0702/DSA_java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/anshpatel0702/DSA_java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anshpatel0702/DSA_java/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/anshpatel0702/DSA_java/tree/master/0205-isomorphic-strings) |
@@ -272,6 +274,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -298,4 +301,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshpatel0702/DSA_java/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
