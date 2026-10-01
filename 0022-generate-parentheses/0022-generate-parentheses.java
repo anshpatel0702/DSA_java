@@ -11,12 +11,12 @@ class Solution {
          return ;
          }
     if(open<n){
-        sb.append("(");
+        sb.append('(');
         solve(ans,sb,open+1,close,n);
         sb.deleteCharAt(sb.length()-1);
     }
     if(close<open){
-        sb.append(")");
+        sb.append(')');
         solve(ans,sb,open,close+1,n);
         sb.deleteCharAt(sb.length()-1);
     }
