@@ -276,6 +276,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anshpatel0702/DSA_java/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anshpatel0702/DSA_java/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/anshpatel0702/DSA_java/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
@@ -313,8 +314,10 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/anshpatel0702/DSA_java/tree/master/0078-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anshpatel0702/DSA_java/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anshpatel0702/DSA_java/tree/master/0078-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anshpatel0702/DSA_java/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
