@@ -83,6 +83,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/anshpatel0702/DSA_java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/anshpatel0702/DSA_java/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/anshpatel0702/DSA_java/tree/master/0344-reverse-string) |
+| [0696-count-binary-substrings](https://github.com/anshpatel0702/DSA_java/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/anshpatel0702/DSA_java/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshpatel0702/DSA_java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshpatel0702/DSA_java/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -270,6 +271,7 @@
 | [0242-valid-anagram](https://github.com/anshpatel0702/DSA_java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anshpatel0702/DSA_java/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/anshpatel0702/DSA_java/tree/master/0451-sort-characters-by-frequency) |
+| [0696-count-binary-substrings](https://github.com/anshpatel0702/DSA_java/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/anshpatel0702/DSA_java/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
