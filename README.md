@@ -24,6 +24,7 @@
 | [0078-subsets](https://github.com/anshpatel0702/DSA_java/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anshpatel0702/DSA_java/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshpatel0702/DSA_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/anshpatel0702/DSA_java/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/anshpatel0702/DSA_java/tree/master/0152-maximum-product-subarray) |
@@ -316,10 +317,12 @@
 | [0022-generate-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/anshpatel0702/DSA_java/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/anshpatel0702/DSA_java/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0090-subsets-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anshpatel0702/DSA_java/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anshpatel0702/DSA_java/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0090-subsets-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anshpatel0702/DSA_java/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
