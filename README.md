@@ -23,6 +23,7 @@
 | [0073-set-matrix-zeroes](https://github.com/anshpatel0702/DSA_java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anshpatel0702/DSA_java/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anshpatel0702/DSA_java/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/anshpatel0702/DSA_java/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anshpatel0702/DSA_java/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0090-subsets-ii) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anshpatel0702/DSA_java/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/anshpatel0702/DSA_java/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/anshpatel0702/DSA_java/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
@@ -272,6 +274,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshpatel0702/DSA_java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/anshpatel0702/DSA_java/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/anshpatel0702/DSA_java/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/anshpatel0702/DSA_java/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/anshpatel0702/DSA_java/tree/master/0151-reverse-words-in-a-string) |
@@ -325,6 +328,7 @@
 | [0039-combination-sum](https://github.com/anshpatel0702/DSA_java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/anshpatel0702/DSA_java/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/anshpatel0702/DSA_java/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/anshpatel0702/DSA_java/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/anshpatel0702/DSA_java/tree/master/0216-combination-sum-iii) |
@@ -335,4 +339,8 @@
 | [0078-subsets](https://github.com/anshpatel0702/DSA_java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0090-subsets-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anshpatel0702/DSA_java/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/anshpatel0702/DSA_java/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
