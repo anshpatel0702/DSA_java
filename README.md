@@ -168,6 +168,7 @@
 | [0509-fibonacci-number](https://github.com/anshpatel0702/DSA_java/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/anshpatel0702/DSA_java/tree/master/0836-rectangle-overlap) |
 | [1922-count-good-numbers](https://github.com/anshpatel0702/DSA_java/tree/master/1922-count-good-numbers) |
+| [2235-add-two-integers](https://github.com/anshpatel0702/DSA_java/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshpatel0702/DSA_java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshpatel0702/DSA_java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/anshpatel0702/DSA_java/tree/master/3870-count-commas-in-range) |
