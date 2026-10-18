@@ -167,6 +167,7 @@
 | [0066-plus-one](https://github.com/anshpatel0702/DSA_java/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/anshpatel0702/DSA_java/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/anshpatel0702/DSA_java/tree/master/0836-rectangle-overlap) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshpatel0702/DSA_java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1922-count-good-numbers](https://github.com/anshpatel0702/DSA_java/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/anshpatel0702/DSA_java/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshpatel0702/DSA_java/tree/master/3345-smallest-divisible-digit-product-i) |
