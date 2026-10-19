@@ -4,7 +4,7 @@ class Solution {
         int low=1;
         int high=x/2;
         while(low<=high){
-            int mid=(low+high)/2;
+            int mid=low+(high-low)/2;
             long sq=(long) mid*mid;
             if(sq==x) return mid;
              if(sq< x) low=mid+1;
