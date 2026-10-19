@@ -47,6 +47,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anshpatel0702/DSA_java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anshpatel0702/DSA_java/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/anshpatel0702/DSA_java/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshpatel0702/DSA_java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshpatel0702/DSA_java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshpatel0702/DSA_java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -107,6 +108,7 @@
 | [0229-majority-element-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/anshpatel0702/DSA_java/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/anshpatel0702/DSA_java/tree/master/0451-sort-characters-by-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshpatel0702/DSA_java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anshpatel0702/DSA_java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anshpatel0702/DSA_java/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/anshpatel0702/DSA_java/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshpatel0702/DSA_java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
