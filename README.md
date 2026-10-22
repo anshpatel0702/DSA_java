@@ -170,6 +170,7 @@
 | [0069-sqrtx](https://github.com/anshpatel0702/DSA_java/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/anshpatel0702/DSA_java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anshpatel0702/DSA_java/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anshpatel0702/DSA_java/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/anshpatel0702/DSA_java/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/anshpatel0702/DSA_java/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshpatel0702/DSA_java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -233,6 +234,7 @@
 | [0231-power-of-two](https://github.com/anshpatel0702/DSA_java/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/anshpatel0702/DSA_java/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/anshpatel0702/DSA_java/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anshpatel0702/DSA_java/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/anshpatel0702/DSA_java/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/anshpatel0702/DSA_java/tree/master/1922-count-good-numbers) |
 ## Memoization
@@ -353,6 +355,7 @@
 | [0078-subsets](https://github.com/anshpatel0702/DSA_java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/anshpatel0702/DSA_java/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/anshpatel0702/DSA_java/tree/master/0342-power-of-four) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anshpatel0702/DSA_java/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Depth-First Search
 |  |
