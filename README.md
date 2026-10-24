@@ -140,6 +140,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/anshpatel0702/DSA_java/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshpatel0702/DSA_java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/anshpatel0702/DSA_java/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
@@ -172,6 +173,7 @@
 | [0231-power-of-two](https://github.com/anshpatel0702/DSA_java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anshpatel0702/DSA_java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anshpatel0702/DSA_java/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/anshpatel0702/DSA_java/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/anshpatel0702/DSA_java/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/anshpatel0702/DSA_java/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshpatel0702/DSA_java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -298,6 +300,7 @@
 | [0205-isomorphic-strings](https://github.com/anshpatel0702/DSA_java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anshpatel0702/DSA_java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anshpatel0702/DSA_java/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/anshpatel0702/DSA_java/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/anshpatel0702/DSA_java/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/anshpatel0702/DSA_java/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/anshpatel0702/DSA_java/tree/master/0796-rotate-string) |
