@@ -183,6 +183,7 @@
 | [0877-stone-game](https://github.com/anshpatel0702/DSA_java/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshpatel0702/DSA_java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshpatel0702/DSA_java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/anshpatel0702/DSA_java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1922-count-good-numbers](https://github.com/anshpatel0702/DSA_java/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/anshpatel0702/DSA_java/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshpatel0702/DSA_java/tree/master/3345-smallest-divisible-digit-product-i) |
