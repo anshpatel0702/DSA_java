@@ -47,6 +47,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anshpatel0702/DSA_java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/anshpatel0702/DSA_java/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anshpatel0702/DSA_java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1512-number-of-good-pairs](https://github.com/anshpatel0702/DSA_java/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/anshpatel0702/DSA_java/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/anshpatel0702/DSA_java/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/anshpatel0702/DSA_java/tree/master/1929-concatenation-of-array) |
@@ -72,6 +73,7 @@
 | [0242-valid-anagram](https://github.com/anshpatel0702/DSA_java/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/anshpatel0702/DSA_java/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/anshpatel0702/DSA_java/tree/master/0560-subarray-sum-equals-k) |
+| [1512-number-of-good-pairs](https://github.com/anshpatel0702/DSA_java/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anshpatel0702/DSA_java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
@@ -128,6 +130,7 @@
 | [0169-majority-element](https://github.com/anshpatel0702/DSA_java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/anshpatel0702/DSA_java/tree/master/0451-sort-characters-by-frequency) |
+| [1512-number-of-good-pairs](https://github.com/anshpatel0702/DSA_java/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anshpatel0702/DSA_java/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
@@ -185,6 +188,7 @@
 | [0877-stone-game](https://github.com/anshpatel0702/DSA_java/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshpatel0702/DSA_java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshpatel0702/DSA_java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/anshpatel0702/DSA_java/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anshpatel0702/DSA_java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1922-count-good-numbers](https://github.com/anshpatel0702/DSA_java/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/anshpatel0702/DSA_java/tree/master/2235-add-two-integers) |
