@@ -15,6 +15,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/anshpatel0702/DSA_java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anshpatel0702/DSA_java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshpatel0702/DSA_java/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/anshpatel0702/DSA_java/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anshpatel0702/DSA_java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/anshpatel0702/DSA_java/tree/master/0051-n-queens) |
@@ -61,6 +62,7 @@
 | [0012-integer-to-roman](https://github.com/anshpatel0702/DSA_java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/anshpatel0702/DSA_java/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshpatel0702/DSA_java/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/anshpatel0702/DSA_java/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/anshpatel0702/DSA_java/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/anshpatel0702/DSA_java/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/anshpatel0702/DSA_java/tree/master/0138-copy-list-with-random-pointer) |
@@ -158,6 +160,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anshpatel0702/DSA_java/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/anshpatel0702/DSA_java/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/anshpatel0702/DSA_java/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0240-search-a-2d-matrix-ii) |
@@ -357,6 +360,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshpatel0702/DSA_java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/anshpatel0702/DSA_java/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/anshpatel0702/DSA_java/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anshpatel0702/DSA_java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/anshpatel0702/DSA_java/tree/master/0051-n-queens) |
@@ -383,6 +387,7 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anshpatel0702/DSA_java/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/anshpatel0702/DSA_java/tree/master/0051-n-queens) |
 ## Newton's Method
 |  |
@@ -400,4 +405,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/anshpatel0702/DSA_java/tree/master/0877-stone-game) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/anshpatel0702/DSA_java/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
