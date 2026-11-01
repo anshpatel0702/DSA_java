@@ -51,6 +51,7 @@
 | [1512-number-of-good-pairs](https://github.com/anshpatel0702/DSA_java/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/anshpatel0702/DSA_java/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/anshpatel0702/DSA_java/tree/master/1901-find-a-peak-element-ii) |
+| [1920-build-array-from-permutation](https://github.com/anshpatel0702/DSA_java/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anshpatel0702/DSA_java/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anshpatel0702/DSA_java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshpatel0702/DSA_java/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/anshpatel0702/DSA_java/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/anshpatel0702/DSA_java/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anshpatel0702/DSA_java/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anshpatel0702/DSA_java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshpatel0702/DSA_java/tree/master/2149-rearrange-array-elements-by-sign) |
