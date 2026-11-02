@@ -191,6 +191,7 @@
 | [0326-power-of-three](https://github.com/anshpatel0702/DSA_java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anshpatel0702/DSA_java/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/anshpatel0702/DSA_java/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/anshpatel0702/DSA_java/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/anshpatel0702/DSA_java/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/anshpatel0702/DSA_java/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anshpatel0702/DSA_java/tree/master/0877-stone-game) |
