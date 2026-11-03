@@ -6,11 +6,9 @@ class Solution {
             if(nums[i]>max) max=nums[i];
         }
         for(int i=0;i<nums.length;i++){
-            while(nums[i]!=max){
-                nums[i]++;
-                c++;
+            c+=max-nums[i];
             }
-        }
+        
         return c;
     }
 }
