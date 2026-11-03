@@ -57,6 +57,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshpatel0702/DSA_java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshpatel0702/DSA_java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshpatel0702/DSA_java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anshpatel0702/DSA_java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +204,7 @@
 | [2235-add-two-integers](https://github.com/anshpatel0702/DSA_java/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshpatel0702/DSA_java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshpatel0702/DSA_java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anshpatel0702/DSA_java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/anshpatel0702/DSA_java/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/anshpatel0702/DSA_java/tree/master/3871-count-commas-in-range-ii) |
 ## Binary Search
