@@ -39,6 +39,7 @@
 | [0216-combination-sum-iii](https://github.com/anshpatel0702/DSA_java/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/anshpatel0702/DSA_java/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/anshpatel0702/DSA_java/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/anshpatel0702/DSA_java/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshpatel0702/DSA_java/tree/master/0540-single-element-in-a-sorted-array) |
@@ -388,6 +389,7 @@
 | [0137-single-number-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/anshpatel0702/DSA_java/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/anshpatel0702/DSA_java/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/anshpatel0702/DSA_java/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/anshpatel0702/DSA_java/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/anshpatel0702/DSA_java/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/anshpatel0702/DSA_java/tree/master/0461-hamming-distance) |
