@@ -388,6 +388,7 @@
 | [0090-subsets-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/anshpatel0702/DSA_java/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/anshpatel0702/DSA_java/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/anshpatel0702/DSA_java/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/anshpatel0702/DSA_java/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/anshpatel0702/DSA_java/tree/master/0338-counting-bits) |
