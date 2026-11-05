@@ -52,6 +52,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anshpatel0702/DSA_java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/anshpatel0702/DSA_java/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/anshpatel0702/DSA_java/tree/master/1539-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/anshpatel0702/DSA_java/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/anshpatel0702/DSA_java/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/anshpatel0702/DSA_java/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anshpatel0702/DSA_java/tree/master/1929-concatenation-of-array) |
@@ -172,6 +173,7 @@
 | [0073-set-matrix-zeroes](https://github.com/anshpatel0702/DSA_java/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/anshpatel0702/DSA_java/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/anshpatel0702/DSA_java/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/anshpatel0702/DSA_java/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
