@@ -413,6 +413,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anshpatel0702/DSA_java/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/anshpatel0702/DSA_java/tree/master/0100-same-tree) |
 ## Algorithm X
 |  |
 | ------- |
@@ -438,4 +439,16 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anshpatel0702/DSA_java/tree/master/0037-sudoku-solver) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anshpatel0702/DSA_java/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anshpatel0702/DSA_java/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anshpatel0702/DSA_java/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
