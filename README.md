@@ -49,6 +49,7 @@
 | [0877-stone-game](https://github.com/anshpatel0702/DSA_java/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anshpatel0702/DSA_java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anshpatel0702/DSA_java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anshpatel0702/DSA_java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/anshpatel0702/DSA_java/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anshpatel0702/DSA_java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/anshpatel0702/DSA_java/tree/master/1512-number-of-good-pairs) |
@@ -205,6 +206,7 @@
 | [0836-rectangle-overlap](https://github.com/anshpatel0702/DSA_java/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anshpatel0702/DSA_java/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshpatel0702/DSA_java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anshpatel0702/DSA_java/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshpatel0702/DSA_java/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/anshpatel0702/DSA_java/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anshpatel0702/DSA_java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
