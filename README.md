@@ -62,6 +62,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshpatel0702/DSA_java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anshpatel0702/DSA_java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshpatel0702/DSA_java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2562-find-the-array-concatenation-value](https://github.com/anshpatel0702/DSA_java/tree/master/2562-find-the-array-concatenation-value) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshpatel0702/DSA_java/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anshpatel0702/DSA_java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
@@ -111,6 +112,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/anshpatel0702/DSA_java/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshpatel0702/DSA_java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshpatel0702/DSA_java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2562-find-the-array-concatenation-value](https://github.com/anshpatel0702/DSA_java/tree/master/2562-find-the-array-concatenation-value) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [1929-concatenation-of-array](https://github.com/anshpatel0702/DSA_java/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/anshpatel0702/DSA_java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshpatel0702/DSA_java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2562-find-the-array-concatenation-value](https://github.com/anshpatel0702/DSA_java/tree/master/2562-find-the-array-concatenation-value) |
 | [3498-reverse-degree-of-a-string](https://github.com/anshpatel0702/DSA_java/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
 |  |
