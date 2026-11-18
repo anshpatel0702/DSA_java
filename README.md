@@ -20,6 +20,7 @@
 | [0040-combination-sum-ii](https://github.com/anshpatel0702/DSA_java/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/anshpatel0702/DSA_java/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/anshpatel0702/DSA_java/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/anshpatel0702/DSA_java/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/anshpatel0702/DSA_java/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/anshpatel0702/DSA_java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/anshpatel0702/DSA_java/tree/master/0073-set-matrix-zeroes) |
@@ -161,6 +162,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anshpatel0702/DSA_java/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/anshpatel0702/DSA_java/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/anshpatel0702/DSA_java/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anshpatel0702/DSA_java/tree/master/1929-concatenation-of-array) |
@@ -176,6 +178,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anshpatel0702/DSA_java/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/anshpatel0702/DSA_java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anshpatel0702/DSA_java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anshpatel0702/DSA_java/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/anshpatel0702/DSA_java/tree/master/0079-word-search) |
