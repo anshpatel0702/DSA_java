@@ -163,6 +163,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anshpatel0702/DSA_java/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/anshpatel0702/DSA_java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/anshpatel0702/DSA_java/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/anshpatel0702/DSA_java/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anshpatel0702/DSA_java/tree/master/1929-concatenation-of-array) |
@@ -204,6 +205,7 @@
 | [0066-plus-one](https://github.com/anshpatel0702/DSA_java/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/anshpatel0702/DSA_java/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/anshpatel0702/DSA_java/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/anshpatel0702/DSA_java/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/anshpatel0702/DSA_java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anshpatel0702/DSA_java/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/anshpatel0702/DSA_java/tree/master/0412-fizz-buzz) |
@@ -457,4 +459,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anshpatel0702/DSA_java/tree/master/0100-same-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/anshpatel0702/DSA_java/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
